@@ -35,10 +35,10 @@ Open and run the notebooks manually in order: `analysis/01_assignment_2_data_pre
 
 ## Key Results
 
-- **Best model:** Gradient Boosting (CV AUC = 0.69, Holdout AUC = 0.71)
+- **Best model:** LASSO (CV AUC = 0.70, Holdout AUC = 0.68, 42 non-zero coefficients)
 - **Loss function:** FP = $1, FN = $5 (missing a fast-grower costs 5× more than a false alarm)
-- **Optimal threshold:** 0.155 → Recall = 93%, Precision = 32%
-- **Industry comparison:** Model performs better on services (AUC 0.71) than manufacturing (AUC 0.63)
+- **Optimal threshold:** 0.171 → Recall = 90%, Precision = 32%
+- **Industry comparison:** Model performs better on services (AUC 0.72) than manufacturing (AUC 0.65)
 
 ## Data
 
