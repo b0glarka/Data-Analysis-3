@@ -1,8 +1,10 @@
-# Assignment 2 — Predicting Fast-Growth Firms
+# Assignment 2 - Predicting Fast-Growth Firms
 
 **Course:** ECBS5171 – Data Analysis 3  
-**Authors:** Boga Petruska & Bence Szabo  
-**Date:** February 2026
+**Authors:** Boga Petruska & Bence Szabo    
+**Assignment:**  Assignment 2 - Predicting Fast-Growth Firms  
+**Date:** February 15, 2026
+
 
 ## Overview
 
